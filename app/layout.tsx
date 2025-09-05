@@ -1,8 +1,8 @@
 import "./globals.css";
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
 import HeroUIWrapper from "@/providers/HeroUIWrapper";
 import ManropeFont from "@/providers/ManropeFont";
+import NextTopLoader from "nextjs-toploader";
 
 export const metadata: Metadata = {
   title: "Create Next App",
@@ -17,6 +17,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body>
+        <NextTopLoader easing="ease" showSpinner={false} />
         <ManropeFont>
           <HeroUIWrapper>{children}</HeroUIWrapper>
         </ManropeFont>
