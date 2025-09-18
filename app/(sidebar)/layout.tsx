@@ -10,7 +10,7 @@ const layout = ({ children }: Readonly<{ children: React.ReactNode }>) => {
         </h1>
         <SidebarNavigation />
       </div>
-      <div className="bg-[#f7f7f7] border border-[#f1f1f1] h-full flex-1 shadow-sm rounded-xl">
+      <div className="bg-[#f7f7f7] border border-[#f1f1f1] h-full flex-1 shadow-sm rounded-xl p-3">
         {children}
       </div>
     </div>
