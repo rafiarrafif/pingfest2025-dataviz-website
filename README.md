@@ -1,36 +1,17 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<h1 align="left">Archived Project Notice</h1>
 
-## Getting Started
+####
 
-First, run the development server:
+<h3 align="left">🚫 This project has been archived and is no longer maintained</h3>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+<p align="left">The project has been discontinued due to significant changes in the dataset provided by the organizing committee. The original dataset that this visualization was built upon has been fundamentally altered, making this implementation obsolete and incompatible with the new data structure.</p>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+##
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+<h3 align="left">New Repository</h3>
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+<p align="left">We have created a new repository with updated visualizations that work with the revised dataset:</p>
 
-## Learn More
+<h5 align="left">New Project Repository: https://repo.arrafif.com/pingfest-datavisualization </h5>
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+###
