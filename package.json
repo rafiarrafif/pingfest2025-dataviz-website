@@ -14,6 +14,7 @@
     "@heroui/react": "^2.8.3",
     "@iconify/react": "^6.0.1",
     "@types/better-sqlite3": "^7.6.13",
+    "apexcharts": "^5.3.5",
     "better-sqlite3": "^12.2.0",
     "commitizen": "^4.3.1",
     "csv-parse": "^6.1.0",
@@ -22,6 +23,7 @@
     "next": "15.5.2",
     "nextjs-toploader": "^3.8.16",
     "react": "19.1.0",
+    "react-apexcharts": "^1.7.0",
     "react-dom": "19.1.0"
   },
   "devDependencies": {
